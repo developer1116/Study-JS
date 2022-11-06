@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.root {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.Inner {
+  margin-top: 255px;
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+}
+
+.Welcome {
+  color: #000000;
+}
+
+.Hello {
+  font-size: 58px;
+}
