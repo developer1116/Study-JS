@@ -1,2 +1,2 @@
 # study-JS
-JavaScript 기초부터 심화까지
+It is possible to store the mind with a million facts and still be entirely uneducated.
